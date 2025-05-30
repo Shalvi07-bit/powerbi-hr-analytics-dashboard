@@ -24,9 +24,7 @@ You can use the background image `BG12.jpg` in your Power BI visuals by:
 1. Going to **View → Page Background** in Power BI.
 2. Uploading `assets/BG12.jpg` and setting transparency as needed.
 
-## 📌 Notes
-- This is a sample project intended for portfolio and educational use.
-- Dataset has been anonymized and simplified.
+
 
 
 
