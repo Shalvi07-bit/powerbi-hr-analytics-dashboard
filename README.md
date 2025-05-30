@@ -22,7 +22,7 @@ This repository contains a Power BI dashboard designed to analyze HR data, helpi
 ## 🖼️ Dashboard Preview
 You can use the background image `BG12.jpg` in your Power BI visuals by:
 1. Going to **View → Page Background** in Power BI.
-2. Uploading `assets/BG12.jpg` and setting transparency as needed.
+2. Uploading `BG12.jpg` and setting transparency as needed.
 
 
 
