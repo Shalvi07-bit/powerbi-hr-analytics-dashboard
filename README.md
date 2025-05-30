@@ -5,7 +5,7 @@ This repository contains a Power BI dashboard designed to analyze HR data, helpi
 ## 📁 Files
 - `Project powerbi.pbix` – Main Power BI dashboard file
 - `HR_Analytics.csv` – Dataset used for visualizations
-- `assets/BG12.jpg` – Custom background image used in the dashboard
+- `BG12.jpg` – Custom background image used in the dashboard
 
 ## 📊 Features
 - Employee attrition and retention analysis
@@ -14,7 +14,7 @@ This repository contains a Power BI dashboard designed to analyze HR data, helpi
 - Dynamic filters and slicers for interactive reporting
 
 ## 🛠️ How to Use
-1. Download or clone this repository.
+1. Download this repository.
 2. Open `Project powerbi.pbix` using Power BI Desktop.
 3. If needed, reconnect the dataset from `HR_Analytics.csv`.
 4. Explore and interact with the report visuals.
